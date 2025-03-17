@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListaPeliculas>
+    <Pelicula id="1">
+        <DatosGenerales genero="Aventura" estado="Estrenada" pais="Estados Unidos">
+            <Titulo>Indiana Jones: En busca del arca perdida</Titulo>
+            <Director>Steven Spielberg</Director>
+            <Estreno>Año de Estreno: 1981</Estreno>
+        </DatosGenerales>
+        <Premios>
+            <Premio nombre="Oscar" categoria="Mejor Dirección de Arte" año="1982"/>
+            <Premio nombre="Oscar" categoria="Mejor Sonido" año="1982"/>
+        </Premios>
+        <ActoresPrincipales>
+            <Actor nombre="Harrison Ford" papel="Indiana Jones"/>
+            <Actor nombre="Karen Allen" papel="Marion Ravenwood"/>
+        </ActoresPrincipales>
+    </Pelicula>
+
+    <Pelicula id="2">
+        <DatosGenerales genero="Ciencia Ficción" estado="Estrenada" pais="Reino Unido">
+            <Titulo>2001: Odisea en el Espacio</Titulo>
+            <Director>Stanley Kubrick</Director>
+            <Estreno>Año de Estreno: 1968</Estreno>
+        </DatosGenerales>
+        <Premios>
+            <Premio nombre="Oscar" categoria="Mejores Efectos Visuales" año="1969"/>
+        </Premios>
+        <ActoresPrincipales>
+            <Actor nombre="Keir Dullea" papel="Dr. Dave Bowman"/>
+            <Actor nombre="Gary Lockwood" papel="Dr. Frank Poole"/>
+        </ActoresPrincipales>
+    </Pelicula>
+
+    <Pelicula id="3">
+        <DatosGenerales genero="Drama Histórico" estado="Estrenada" pais="Estados Unidos">
+            <Titulo>Gladiador</Titulo>
+            <Director>Ridley Scott</Director>
+            <Estreno>Año de Estreno: 2000</Estreno>
+        </DatosGenerales>
+        <Premios>
+            <Premio nombre="Oscar" categoria="Mejor Película" año="2001"/>
+            <Premio nombre="Oscar" categoria="Mejor Actor" año="2001"/>
+        </Premios>
+        <ActoresPrincipales>
+            <Actor nombre="Russell Crowe" papel="Máximo Décimo Meridio"/>
+            <Actor nombre="Joaquin Phoenix" papel="Cómodo"/>
+        </ActoresPrincipales>
+    </Pelicula>
+</ListaPeliculas>
